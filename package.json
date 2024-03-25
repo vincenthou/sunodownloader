@@ -25,7 +25,10 @@
   },
   "manifest": {
     "host_permissions": [
-      "https://*/*"
+      "https://app.suno.ai/*"
+    ],
+    "permissions": [
+      "downloads"
     ]
   }
 }

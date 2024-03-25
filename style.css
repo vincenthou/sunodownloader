@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+ul {
+  background: #1A202C;
+  margin: 0;
+  padding: 10px;
+}
+
+li {
+  background: #000;
+  margin-top: 10px;
+  padding: 5px;
+  text-align: center;
+  width: 100px;
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: orange;
+}
