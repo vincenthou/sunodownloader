@@ -10,7 +10,12 @@ function IndexPopup() {
       </li>
       <li>
         <a href="https://app.suno.ai/create/" target="_blank">
-          🔥 Create Mine
+          🔥 Create Yours
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/vincenthou/sunodownloader" target="_blank">
+          👍Star Me
         </a>
       </li>
     </ul >
